@@ -1,0 +1,16 @@
+Údaje CMS Wordpress:
+- Cílová doména: aiteam.silnykus.cz
+- Přihlašovací údaje administrátora: 
+    - Login: AITeam
+    - Password: Na vyžádání!
+
+Údaje hostingu:
+    - FTP účet: 
+        - Server: 289955.w55.wedos.net
+        - Login: w289955_aiteam
+        - Heslo: Na vyžádání!
+
+    - DB účet:
+        - Databázový server: md327.wedos.net
+        - Login: d289955_sryxsa
+        - Heslo: Na vyžádání!
