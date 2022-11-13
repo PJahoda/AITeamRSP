@@ -1,0 +1,4 @@
+Design systému jsme se snažili zvolit co nejjednodušší k čemuž nám perfektně posloužila šablona s názvem Driven od autorů ThemeZee.
+Šablona nabízí jednoduchý design s moderními prvky a jako bonus je zdarma.
+
+-> Šablonu je možné nalézt na: https://themezee.com/themes/driven/.
