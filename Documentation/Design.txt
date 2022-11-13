@@ -1,4 +1,8 @@
 Design systému jsme se snažili zvolit co nejjednodušší k čemuž nám perfektně posloužila šablona s názvem Driven od autorů ThemeZee.
-Šablona nabízí jednoduchý design s moderními prvky a jako bonus je zdarma.
+Šablona nabízí jednoduchý design s moderními prvky a jako bonus je zdarma. Tento template má 3 možnosti, jak může defaultně vypadat. Pro každou stránku se tak může využít nejlépe odpovídající návrh a následně jej upravit na míru. 
 
 -> Šablonu je možné nalézt na: https://themezee.com/themes/driven/.
+
+Vzhled celého webu založen na běžném překlikávání ze stránky na stránku pomocí tlačítek, která 
+odkazují na danou stránku (přihlašovací stránka, helpdesk nebo archiv). Rozložení se ustálilo na dvou až třech sloupcích vedle sebe v závislosti na množství potřebných 
+informací. Horní a spodní vrstvy stránky jsou vždy stejné, mění se pouze obsah uprostřed.
