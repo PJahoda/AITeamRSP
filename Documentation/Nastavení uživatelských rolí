@@ -1,0 +1,10 @@
+Nastavení uživatelských rolí
+
+Nastavení uživatelských rolí bylo do administrace Wordpress implementováno pomocí pluginu „Members“ od výrobce Memberpress.
+
+Tento plugin nám dovoluje vytvářet role a přidělovat jim příslušné oprávnění k jednotlivým částem stránky (Přidávat media, vytvářet / editovat články, přiřazovat kategorie a podobně).
+
+Role byli vytvořeny pro každého jednotlivého uživatele v administraci pluginu.
+Tudíž nyní existují tyto role: Admin, Ctenar, Autor, Recenzent, Redaktor, Sefredaktor.
+
+Všechny Role přiřazuje manuálně administrátor po registraci uživatele na vyžádání. V základu je uživatelská role nastavena jako Ctenar.
