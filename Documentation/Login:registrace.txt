@@ -1,0 +1,16 @@
+Registrace Autor
+- realizována přes formulář přímo v aplikaci
+- vyžadován email, nick, heslo
+- k dispozici všem návštěvníkům 
+
+Registrace Redaktor, šéfredaktor, recenzent
+- účet lze vytvořit na žádost u admina
+
+Přihlášení
+- vyžadován email nebo nick
+- vyžadováno heslo
+- možnost zapamatování uživatele
+- funkce zapomenutého heslo
+
+
+Funkce registrace a přihlášení je realizována pomocí plug-in User Registration
