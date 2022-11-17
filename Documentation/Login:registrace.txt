@@ -1,9 +1,9 @@
-Registrace Autor
+Registrace Čtenář
 - realizována přes formulář přímo v aplikaci
 - vyžadován email, nick, heslo
 - k dispozici všem návštěvníkům 
 
-Registrace Redaktor, šéfredaktor, recenzent
+Registrace Redaktor, šéfredaktor, recenzent, autor
 - účet lze vytvořit na žádost u admina
 
 Přihlášení
