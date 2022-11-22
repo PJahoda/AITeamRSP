@@ -1,0 +1,5 @@
+Recenzní formulář je vytvořen pomocí pluginu Contact Form 7 a Ultimate Addons for Contact Form 7
+Recenzent přejde do jemu přiděleného článku a po prohlídce přejde do sekce Posts do postu recenzní formulář
+Tam vyplní sekce jméno autora, název článku, svůj email a ohodnotí pomocí hvězdiček přidělený příspěvek (1 hvězdička je nejlepší a 5 nejhorší známka).
+Dole může ještě vyplnit vlastní zprávu a odešle formulář. 
+Formulář se objeví v emailu administrátora.
