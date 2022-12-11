@@ -2,4 +2,5 @@ Recenzní formulář je vytvořen pomocí pluginu Contact Form 7 a Ultimate Addo
 Recenzent přejde do jemu přiděleného článku a po prohlídce přejde do sekce Posts do postu recenzní formulář
 Tam vyplní sekce jméno autora, název článku, svůj email a ohodnotí pomocí hvězdiček přidělený příspěvek (1 hvězdička je nejlepší a 5 nejhorší známka).
 Dole může ještě vyplnit vlastní zprávu a odešle formulář. 
-Formulář se objeví v emailu redaktora, který poté zpřístupní autorovi posudek.
+Formulář se odešle do emailu redaktora a šéfredaktora. 
+Redaktor poté zpřístupní autorovi článku posudky recenzenta.
